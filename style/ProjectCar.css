@@ -136,7 +136,10 @@ section>h1{
     margin: 1vh;
 }
 
-
+#section1>img{
+    height: 20vh;
+    align-items: right;
+}
 
 #section5>ul{
     margin-left: 1vw;
